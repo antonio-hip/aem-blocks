@@ -218,8 +218,8 @@
       {
         "component": "text-input",
         "valueType": "string",
-        "name": "author2",
-        "label": "Author2",
+        "name": "author",
+        "label": "Author",
         "value": ""
       }
     ]

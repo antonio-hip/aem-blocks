@@ -163,7 +163,7 @@
                 "template": {
                   "name": "Quote2",
                   "model": "quote2",
-                  "quote": "<p>Think, McFly! Think!</p>",
+                  "quote2": "<p>Think, McFly! Think!</p>",
                   "author": "Biff Tannen"
                 }
               }

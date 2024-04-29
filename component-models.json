@@ -228,10 +228,10 @@
     "id": "antonio",
     "fields": [
       {
-        "component": "text-area",
-        "name": "antonio",
+        "component": "text-input",
+        "name": "text",
         "value": "",
-        "label": "Antonio",
+        "label": "Text",
         "valueType": "string"
       }
     ]

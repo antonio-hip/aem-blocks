@@ -204,5 +204,36 @@
         "value": ""
       }
     ]
+  },
+  {
+    "id": "quote2",
+    "fields": [
+      {
+        "component": "text-area",
+        "name": "quote2",
+        "value": "",
+        "label": "Quote2",
+        "valueType": "string"
+      },
+      {
+        "component": "text-input",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "antonio",
+    "fields": [
+      {
+        "component": "text-area",
+        "name": "antonio",
+        "value": "",
+        "label": "Antonio",
+        "valueType": "string"
+      }
+    ]
   }
 ]

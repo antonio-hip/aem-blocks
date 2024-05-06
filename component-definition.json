@@ -64,7 +64,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/section/v1/section",
+                "resourceType": "aue-demo-edge/components/section/v1/section",
                 "template": {}
               }
             }

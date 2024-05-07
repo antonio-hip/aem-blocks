@@ -187,7 +187,7 @@
     ]
   },
   {
-    "id": "quote",
+    "id": "quote2",
     "fields": [
       {
         "component": "text-area",

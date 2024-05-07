@@ -187,7 +187,7 @@
     ]
   },
   {
-    "id": "quote2",
+    "id": "quote",
     "fields": [
       {
         "component": "text-area",
@@ -199,8 +199,8 @@
       {
         "component": "text-input",
         "valueType": "string",
-        "name": "biciklin",
-        "label": "Biciklin",
+        "name": "traktor",
+        "label": "Traktor",
         "value": ""
       }
     ]
